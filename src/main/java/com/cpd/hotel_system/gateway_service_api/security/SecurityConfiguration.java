@@ -1,4 +1,4 @@
-package com.cpd.hotel_system.security;
+package com.cpd.hotel_system.gateway_service_api.security;
 
 import java.util.List;
 
